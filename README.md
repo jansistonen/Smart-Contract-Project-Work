@@ -1,6 +1,9 @@
 # Smart-Contract-Project-Work
 Project work for "Introduction to Blockchain" -course
 
+![image](https://github.com/user-attachments/assets/54e1665d-c38a-4c56-a6c7-0a1bc2747bc9)
+
+
 Repo includes all the source code of the working project, except the node_modules.
 
 Step-by-step instructions how to run the project:
