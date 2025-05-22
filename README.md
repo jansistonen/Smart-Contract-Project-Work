@@ -39,11 +39,11 @@ Step-by-step instructions how to run the project:
 
 6) Install and connect Metamask
    - download Browser extension from https://metamask.io/
-![image](https://github.com/user-attachments/assets/c987a8cd-410c-4869-8e38-94f8047cd7b1)
+![image](https://github.com/user-attachments/assets/c987a8cd-410c-4869-8e38-94f8047cd7b1 | width=50)
 
    - Create a wallet
-![image](https://github.com/user-attachments/assets/22b48141-cbf6-4be7-9ed3-f7690d161888)
-![image](https://github.com/user-attachments/assets/217a278f-6023-418b-9dff-db626963e38d)
+![image](https://github.com/user-attachments/assets/22b48141-cbf6-4be7-9ed3-f7690d161888 | width=50)
+![image](https://github.com/user-attachments/assets/217a278f-6023-418b-9dff-db626963e38d | width=50)
    - connect the wallet to test network (Sepolia)
 
 
