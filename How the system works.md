@@ -40,3 +40,11 @@ Step-by-step:
   - Every write operation is a transaction → requires signing and gas
 
   - Every read operation is a view call → no gas, instant
+
+
+ETHERSCAN
+
+From Etherscan it is possible to view the transactions and verify that the new block has actually been created correctly
+This is direct link to our contract's transactions: https://sepolia.etherscan.io/address/0x8729191b555335728B046684a335F2DE62C974f5
+
+From Etherscan it is also possible to see which wallets have been using our contract
